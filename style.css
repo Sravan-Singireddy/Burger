@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.out1{
+    border:solid 1px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+#in1,#in2{
+    border: solid 1px;
+    height: 100px;
+}
+#in1{
+    width: 100px;
+    margin-left: 40px;
+}
+#in2{
+    width: 550px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    border: solid 1px;
+    height: 100px;
+    width: 100px;
+    float: left;
+    text-align: center;
+    line-height: 100px;
+    
+}
+ul li a{
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    }
+    ul li a:hover{
+        color: greenyellow;
+        font-size: 20px;
+    }
+.out2{
+    border: solid 1px;
+    height: 700px;
+    background-image: url(back4.webp);
+    background-repeat: no-repeat;
+    background-size: 1500px 700px;
+}
+#welcome{
+    color: white;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 60px;
+    text-shadow: 3px 3px 5px white;
+}
+#taste{
+    color: white;
+    font-size: 30px;
+    margin-left: 80px;
+    margin-top: 20px;
+    text-shadow: 2px 2px 4px white;
+}
+#menu{
+    margin-left: 80px;
+    margin-top: 30px;
+    background-color: gray;
+    color: blacks;
+    font-size: 18px;
+
+}
+#menu:hover{
+    background-color: aquamarine;
+}
+.out3{
+    border: solid 1px;
+    height: 450px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+#in3,#in4{
+    border: solid 1px;
+    height: 450px;
+}
+#in3{
+    width: 450px;
+}
+#in4{
+    width: 600px;
+}
+#about{
+    font-size: 45px;
+    margin-top: 40px;
+    text-shadow: 3px 3px 5px white;
+    color:aqua;
+}
+#text1{
+    margin-top: 15px;
+    font-size: 19px;
+    color: white;
+}
+.out4{
+    border: solid 1px;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+#in5,#in6,#in7{
+    border: solid 1px;
+    height: 600px;
+    width: 350px;
+}
+#img1{
+    margin-top: 60px;
+}
+#img2{
+    margin-top: 20px;
+}
+#img3{
+    margin-top: 60px;
+}
+#menu1{
+    color: white;
+    text-align: center;
+}
+#menu2{
+    color: white;
+    text-align: center;
+}
+#menu3{
+    color: white;
+    text-align: center;
+}
+

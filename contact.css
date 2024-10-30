@@ -1,0 +1,60 @@
+form{
+    border: solid 1px white;
+    width: 450px;
+    padding-left: 10px;
+    padding-top: 30px;
+    margin-left: 450px;
+     box-shadow: 3px 3px 5px white;
+    
+}
+body{
+    background-image: url(conback.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 700px;
+}
+label{
+    color: white;
+    font-size: 19px;
+
+}
+h1{
+    text-shadow: 3px 3px 5px white;
+    color: aqua;
+    font-size: 30px;
+    text-align: center;
+
+}
+input{
+    height: 20px;
+    width: 300px;
+    background: none;
+    outline: none;
+    border: none;
+    border-bottom-style: solid;
+    border-bottom-color: aquamarine;
+    color: bisque;
+    font-size: 17px;
+}
+textarea{
+    width: 300px;
+    background: none;
+    outline: none;
+    border: none;
+    border-bottom-style: solid;
+    border-bottom-color: aquamarine;
+    color: bisque;
+    font-size: 17px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: aquamarine;
+    color: black;
+    font-size: 17px;
+    border-radius: 10px;
+}
+#avatar{
+    position: relative;
+    left:  650px;
+    
+}
